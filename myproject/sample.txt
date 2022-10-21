@@ -1,0 +1,4 @@
+hello iam a sample file
+this is git file
+thankyou
+
